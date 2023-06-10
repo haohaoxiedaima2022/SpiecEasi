@@ -1,4 +1,4 @@
-#' SPIEC-EASI pipeline
+#' SPIEC-EASI pipeline2023-06-10 15:29 p.m.
 #'
 #' Run the whole SPIEC-EASI pipeline, from data transformation, sparse inverse covariance estimation and model selection.
 #' Inputs are a non-normalized OTU table and pipeline options.
